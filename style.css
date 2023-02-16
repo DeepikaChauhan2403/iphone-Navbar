@@ -1,0 +1,26 @@
+nav{
+    background-color: black;
+    height: 1.5cm;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 95%;
+    display:flex;
+    flex-flow: row cover;
+    justify-content:center;
+    column-gap: 30px;
+    align-items: center;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+P{
+    padding-top: 80px;
+}
+
+a:hover{
+    color:aqua;
+    font-size: 20px;
+}
